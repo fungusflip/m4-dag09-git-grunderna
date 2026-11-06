@@ -84,3 +84,5 @@ I formuläret fyller du i:
 
 - Läs om `git commit --amend` och ändra ett meddelande.
 - Skapa en `.gitignore` med `.DS_Store`.
+
+Skapad av fungusflip som en del av Git-övningen på Lexicon.
